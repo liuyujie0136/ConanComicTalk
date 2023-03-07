@@ -280,3 +280,8 @@ pre {
     overflow: auto;
     padding: 16px
 }
+
+@viewport {
+    width: device-width;
+    zoom: 1.0
+}
